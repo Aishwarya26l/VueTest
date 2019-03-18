@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+    <h1>Checking Travis CI :)</h1>
     <img width="25%" src="./assets/logo.png">
     <HelloWorld/>
   </div>
